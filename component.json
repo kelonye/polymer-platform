@@ -1,0 +1,7 @@
+{
+  "name": "polymer-platform",
+  "main": "platform.js",
+  "scripts": [
+    "platform.js"
+  ]
+}
